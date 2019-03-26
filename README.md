@@ -15,6 +15,7 @@ Created as a result of: http://stackoverflow.com/questions/22509640/
 
 Update:
 [Blink Style Sheet](https://chromium.googlesource.com/chromium/blink/+/master/Source/core/css/html.css)  
+[Pseudo Elements](https://github.com/jalbertbowden/revert.css/blob/master/pseudo-elements.md)
 
 ## References and Resources  
 [Browsers' default CSS for HTML elements](https://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements)  

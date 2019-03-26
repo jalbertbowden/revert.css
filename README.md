@@ -12,3 +12,7 @@ revert.css (repository) also includes the default CSS styles from:
 5. Internet Explorer 6-9+
 
 Created as a result of: http://stackoverflow.com/questions/22509640/
+
+Update:
+[Blink Style Sheet](https://chromium.googlesource.com/chromium/blink/+/master/Source/core/css/html.css)  
+

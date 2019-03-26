@@ -15,7 +15,8 @@ Created as a result of: http://stackoverflow.com/questions/22509640/
 
 Update:
 [Blink Style Sheet](https://chromium.googlesource.com/chromium/blink/+/master/Source/core/css/html.css)  
-[Pseudo Elements](https://github.com/jalbertbowden/revert.css/blob/master/pseudo-elements.md)
+[Pseudo Elements](https://github.com/jalbertbowden/revert.css/blob/master/pseudo-elements.md)  
+[List of Pseudo Elements to Style Form Controls](https://www.tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls/)  
 
 ## References and Resources  
 [Browsers' default CSS for HTML elements](https://stackoverflow.com/questions/6867254/browsers-default-css-for-html-elements)  
